@@ -2,7 +2,7 @@
 
 <B>Online demo</B> version of SELMA UC0 is available at: https://selma.ailab.lv
 
-<B>How to use<B> video is available at: https://youtu.be/r4nsumsnR5M
+<B>How to use</B> video is available at: https://youtu.be/r4nsumsnR5M
 
 <B>The project</B> page is available at: https://selma-project.eu/
 
