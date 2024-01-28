@@ -8,9 +8,12 @@
 cat myfolder.tar.gz.part* > myfolder.tar.gz
 ```
 
-<B>Run</B> the UC0 server by executing one of:
+<B>Decompress the Reassembled Archive</B> with tar:
+```
+tar -xzvf myfolder.tar.gz
+```
 
-Copy models to `models` directory.
+<B>Run</B> the UC0 server by executing one of:
 
 ```
 ./uc0-darwin
