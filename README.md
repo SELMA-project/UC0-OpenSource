@@ -23,13 +23,11 @@ tar -xzvf myfolder.tar.gz
 
 <B>Run</B> the UC0 server by executing one of:
 
-```
-./uc0-darwin
-```
+`./uc0-darwin` on Apple MacOS (arm M1, M2, M3 or Intel x86 CPU) 
 or
-```
-./uc0-linux-x86_64
-```
+
+`./uc0-linux-x86_64` on Linux
+
 
 <B>Open</B> in browser `http://localhost:9090`
 
