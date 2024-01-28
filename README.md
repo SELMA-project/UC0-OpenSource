@@ -13,12 +13,12 @@
 <B>Reassemble the Archive</B> using the cat command:
 
 ```
-cat myfolder.tar.gz.part* > myfolder.tar.gz
+cat UC0run.tgz.part* > UC0run.tgz
 ```
 
 <B>Decompress the Reassembled Archive</B> with tar:
 ```
-tar -xzvf myfolder.tar.gz
+tar -xzvf UC0run.tgz
 ```
 
 <B>Run</B> the UC0 server by executing one of:
