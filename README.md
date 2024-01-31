@@ -6,7 +6,7 @@
 
 <B>The project</B> page is available at: https://selma-project.eu/
 
-<B>Source Code</B> of all components necessary to re-build the percompiled UC0 Release below is available for download at (9GB): https://pinitree.com/UC0source.tgz 
+<B>Source Code</B> of all components necessary to re-build the percompiled UC0 Release below is available from separate repository https://github.com/SELMA-project/UC0-Build
 
 ## Install your own private copy of UC0 (precompiled)
 
