@@ -34,3 +34,7 @@ or
 
 <B>Open</B> in browser `http://localhost:9090`
 
+## Examles of Videos voiced with SELMA UC0 
+
+Deep Learning Course videos at: https://github.com/guntisx/DeepLearningCourse
+
