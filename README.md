@@ -6,6 +6,10 @@
 
 <B>The project</B> page is available at: https://selma-project.eu/
 
+<B>Please use the following text to cite this item:</B> Goško, Didzis and Bārzdiņš, Guntis, 2024, 
+  SELMA Open Source Platform (UC0), CLARIN-LV digital library at IMCS, University of Latvia, 
+  http://hdl.handle.net/20.500.12574/97.
+
 <B>Source Code</B> of all components necessary to re-build the percompiled UC0 Release below is available from separate repository https://github.com/SELMA-project/UC0-Build
 
 ## Install your own private copy of UC0 (precompiled)
