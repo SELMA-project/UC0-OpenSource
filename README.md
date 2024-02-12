@@ -16,15 +16,10 @@
 
 <B>Download All Parts</B> of the split archive to the same directory from the Release https://github.com/SELMA-project/UC0-OpenSource/releases/tag/v1.0.0.0.
 
-<B>Reassemble the Archive</B> using the cat command:
+<B>Reassemble and decompress the Archive</B> using the `cat` and `tar` command:
 
 ```
-cat UC0run.tgz.part* > UC0run.tgz
-```
-
-<B>Decompress the Reassembled Archive</B> with tar:
-```
-tar -xzvf UC0run.tgz
+cat `ls -1 UC0run.tgz.part-* | sort` | tar xvz
 ```
 
 <B>Run</B> the UC0 server by executing one of:
